@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Remote Data
+  m_EditorClassIdentifier: 
+  m_GroupName: Remote Data
+  m_Data:
+    m_SerializedData: []
+  m_GUID: c05c169c883dca24da8337dd7948b762
+  m_SerializeEntries:
+  - m_GUID: 848392b78c3002045b602c1355422988
+    m_Address: ChangeMat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_mainAssetType: UnityEngine.Material, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  - m_GUID: 95ab25eecf9467f4c8eecd37c1203b55
+    m_Address: Sphere
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - geometry
+    m_mainAssetType: UnityEngine.GameObject, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  - m_GUID: afbfea9d9ef078748b0d4e91594cb23a
+    m_Address: Hero
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_mainAssetType: UnityEngine.GameObject, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  - m_GUID: bd4ef13ebe47ecd438f0a97d138bad57
+    m_Address: UI-Alert
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_mainAssetType: UnityEngine.GameObject, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  - m_GUID: e01e9eaf0cdd03744b47ed838a38c143
+    m_Address: Capsule
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - geometry
+    m_mainAssetType: UnityEngine.GameObject, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  - m_GUID: fcbaecd407052264885a04c756b64f6d
+    m_Address: Dog
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_mainAssetType: UnityEngine.GameObject, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: e6aa75b4af45068439cec8b24891e897, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 47a49f97a025468449def10defacb0f5, type: 2}
+    - {fileID: 11400000, guid: 4d333939b4c63194abdd0362a40e7a74, type: 2}
